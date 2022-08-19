@@ -19,8 +19,8 @@ public class S3Application {
 
     static {
         credentials = new BasicAWSCredentials(
-                "AKIAXF344B3PXRRCOGFU",
-                "YGhT9T2boS5ljKBpWnBVQBZRWw4q6SVgiAsoQ+HN"
+                "<AWS accesskey>",
+                "<AWS secretkey>"
         );
     }
 
